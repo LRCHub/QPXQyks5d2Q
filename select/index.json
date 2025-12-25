@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Jerk It Out",
+  "base_artist": "Caesars",
+  "createdAt": "2025-12-25T06:19:56.629556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jerk It Out",
+      "artist": "Caesars",
+      "has_synced": true,
+      "path": "select/01_Jerk_It_Out_Caesars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jerk It Out - Original Mix",
+      "artist": "Caesars",
+      "has_synced": true,
+      "path": "select/02_Jerk_It_Out_-_Original_Mix_Caesars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jerk It Out (original mix)",
+      "artist": "Caesars",
+      "has_synced": true,
+      "path": "select/03_Jerk_It_Out_(original_mix)_Caesars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jerk It Out (Original Mix)",
+      "artist": "Caesars",
+      "has_synced": true,
+      "path": "select/04_Jerk_It_Out_(Original_Mix)_Caesars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jerk It Out - New Brauer Mix;Single Edit",
+      "artist": "Caesars",
+      "has_synced": false,
+      "path": "select/05_Jerk_It_Out_-_New_Brauer_Mix;Single_Edit_Caesars.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jerk It Out (New Single Edit)",
+      "artist": "Caesars",
+      "has_synced": false,
+      "path": "select/06_Jerk_It_Out_(New_Single_Edit)_Caesars.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jerk It Out",
+      "artist": "Caesars Palace",
+      "has_synced": false,
+      "path": "select/07_Jerk_It_Out_Caesars_Palace.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jerk It Out - New Brauer Mix",
+      "artist": "Caesars",
+      "has_synced": false,
+      "path": "select/08_Jerk_It_Out_-_New_Brauer_Mix_Caesars.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jerk It Out (New Brauer Mix)",
+      "artist": "Caesars",
+      "has_synced": true,
+      "path": "select/09_Jerk_It_Out_(New_Brauer_Mix)_Caesars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jerk It Out",
+      "artist": "Caesars Palace",
+      "has_synced": true,
+      "path": "select/10_Jerk_It_Out_Caesars_Palace.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jerk It Out",
+      "artist": "Caesars",
+      "has_synced": false,
+      "path": "select/pl_01_Jerk_It_Out_Caesars.txt"
+    }
+  ]
+}
